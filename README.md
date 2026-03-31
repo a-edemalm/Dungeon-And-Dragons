@@ -47,6 +47,7 @@ Every element of this project—including the core design, ASCII graphics, pictu
 :::::::::::::: :::::::::::::: :::::::::::::: :::::::::::::: :::::::::::::: 
   </pre>
   </details>
+</div>
 
 ## ✨ Technical Highlights
 
