@@ -1,0 +1,17 @@
+# Ignore compiled Java bytecode
+*.class
+bin/
+
+# Ignore temporary/backup files from diagram tools
+*.drawio.bkp
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
+# If you use an IDE like IntelliJ or Eclipse
+.idea/
+*.iml
+.project
+.classpath
+.settings/
