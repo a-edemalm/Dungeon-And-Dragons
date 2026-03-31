@@ -1,4 +1,4 @@
-# Dungeon & Treasures (Terminal Adventure)
+# Dungeon & Dragons (Terminal Adventure)
 
 A highly atmospheric, text-based horror adventure game built entirely in Java. As my first major Java project, it was designed to consolidate my understanding of Object-Oriented Programming (OOP), concurrency, and data structures.
 
