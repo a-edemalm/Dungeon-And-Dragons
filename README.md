@@ -4,8 +4,8 @@ A highly atmospheric, text-based horror adventure game built entirely in Java. A
 
 Despite being a terminal application, the game features a bespoke rendering engine and a dedicated, multi-threaded sound system to create a genuinely immersive horror experience.
 
-## 🎨 Creative & Technical Disclaimer
-Every element of this project—including the core design, ASCII graphics, picture rendering logic, and UI architecture—is **entirely self-made**.
+## Creative & Technical Disclaimer
+Every element of this project—including the core design, ASCII graphics, picture rendering logic, and UI architecture is **entirely self-made**.
 
 * **Design & Graphics:** All visual representations and rendering algorithms were developed from scratch specifically for this project.
 * **Audio Production:** While the raw soundtracks and music were sourced externally, they have been **heavily modified and remixed**. I applied custom filters, equalisation, ambient layering, and seamless looping to ensure every sound fits the specific, tense atmosphere of the game.
@@ -49,14 +49,14 @@ Every element of this project—including the core design, ASCII graphics, pictu
   </details>
 </div>
 
-## ✨ Technical Highlights
+## Technical Highlights
 
 * **Custom Visual Engine:** A bespoke rendering system handling dynamic text wrapping, typing delays, and ANSI colour customisation without external UI libraries.
 * **Multi-threaded Sound Engine:** Utilises a secondary thread with `ReentrantLock` and `Condition` for concurrent, non-blocking audio playback.
 * **Advanced Data Structures:** A dynamic inventory system built using an `EnumMap` to efficiently categorise items (Weapons, Potions, Keys, Coins).
 * **Polymorphism & Abstraction:** Items and Monsters are built on abstract base classes to handle complex interactions dynamically.
 
-## ⚙️ Installation & Execution
+## Installation & Execution
 
 ### Prerequisites
 * **JDK 17+**
